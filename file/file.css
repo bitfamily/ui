@@ -1,0 +1,36 @@
+.icon-folder{
+    background-image: url(img/folder_icon.png);
+}
+.icon-image{
+    background-image: url(img/image_icon.png);
+}
+.icon-txt{
+    background-image: url(img/txt_icon.png);
+}
+.icon-code{
+    background-image: url(img/code_icon.png);
+}
+.icon-excel{
+    background-image: url(img/exl_icon.png);
+}
+.icon-music{
+    background-image: url(img/music_icon.png);
+}
+.icon-pdf{
+    background-image: url(img/pdf_icon.png);
+}
+.icon-ppt{
+    background-image: url(img/ppt_icon.png);
+}
+.icon-unknown{
+    background-image: url(img/unrecognized_icon.png);
+}
+.icon-video{
+    background-image: url(img/video_icon.png);
+}
+.icon-word{
+    background-image: url(img/word_icon.png);
+}
+.icon-zip{
+    background-image: url(img/zip_icon.png);
+}
